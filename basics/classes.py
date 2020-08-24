@@ -1,4 +1,4 @@
-from classes.Student import Student
+from basics.classes.Student import Student
 
 salam = Student("Salam", "BSCS", 1.25, False)
 chessy = Student("Chessy", "BSN", 2.0, False)

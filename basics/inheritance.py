@@ -1,5 +1,5 @@
-from classes.Chef import Chef
-from classes.ChineseChef import ChineseChef
+from basics.classes.Chef import Chef
+from basics.classes.ChineseChef import ChineseChef
 
 myChef = Chef()
 myChef.make_special_dish()
